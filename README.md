@@ -1,2 +1,2 @@
 # city
-Building a city with css exercise
+Building a responsive city that changes from day to light as the device width changes
